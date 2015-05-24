@@ -1,0 +1,1 @@
+Second version of the IoT blinds app. Getting a little better. Baby steps.
