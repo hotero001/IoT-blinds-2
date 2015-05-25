@@ -1,1 +1,1 @@
-Second version of the IoT blinds app. Getting a little better. Baby steps. I am located on Documents/pitch_perfect on your local machine.
+Second version of the IoT blinds app. Getting a little better. Baby steps. I am located on Documents/pitch_perfect on your local machine. Try using if statements to get the buttons to alternate between one on and the other off
