@@ -1,1 +1,1 @@
-Second version of the IoT blinds app. Getting a little better. Baby steps.
+Second version of the IoT blinds app. Getting a little better. Baby steps. I am located on Documents/pitch_perfect on your local machine.
